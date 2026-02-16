@@ -27,8 +27,8 @@ The model was trained using an Adam optimizer with a learning rate of 0.00015.
 - **Training Accuracy:** ~98%
     
 - **Validation Accuracy:** ~86%
-    
-![Accuracy And Loss Graph](Accuaracy_losss_ graph.png)
+
+    ![Accuracy And Loss Graph](Accuaracy_losss_ graph.png)
 
 The model was able to correctly classify a custom image of my hand as the digit 5
 The implementation of residual blocks allowed the network to converge effectively despite its depth, avoiding the degradation problem common in deep neural networks.
